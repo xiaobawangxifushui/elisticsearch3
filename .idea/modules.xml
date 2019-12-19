@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clazz/Clazz.iml" filepath="$PROJECT_DIR$/Clazz/Clazz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conllection/Conllection.iml" filepath="$PROJECT_DIR$/Conllection/Conllection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TEST/TEST.iml" filepath="$PROJECT_DIR$/TEST/TEST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elisticsearch.iml" filepath="$PROJECT_DIR$/elisticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es/es.iml" filepath="$PROJECT_DIR$/es/es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/io/io.iml" filepath="$PROJECT_DIR$/io/io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
+    </modules>
+  </component>
+</project>
